@@ -102,7 +102,31 @@ The Monitoring and Controlling phase can lead back to planning
 
 ## <span style="color: tomato">Project Scope
 
-Defining the project scope
+**<span style="color: dodgerblue">Defining the project scope**
 - defines the boundaries of a project
 - Outlines what will be includded or excluded
-- detailes description of objectives, deliverables, and requirements
+- detailed description of objectives, deliverables, and requirements
+
+**<span style="color: dodgerblue">Project Scope Statement**
+
+Comes after charter approval
+
+Defines:
+- Goals and objectives
+- Deliverables
+- Requirements
+- Constraints
+- Assumptions
+- Exclusions
+- High-level risks
+
+### <span style="color: gold">Review/Critique
+- Are the objectives defined and achievable within the scope?
+- Do objectives align with the overall goals of the organization?
+- Are the deliverables realistic and achieveable?
+- Are the requirements necessary and relevant? "Minimal marketable feature"
+
+- Are constraints resonable and necessary?
+- Are constraints defined and understood by the project team?
+- Are the assumptions realistic and reasonable?
+- Are exclusions reasonable to keep project within scope?
