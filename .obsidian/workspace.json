@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e11b43fa307360b8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bb5e2e421dbf52e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "6cd08feb7df2f056",
         "type": "tabs",
         "children": [
@@ -29,8 +11,12 @@
             "id": "ac626c412e2c143b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ProjectManagementNotes/2. 49Processes.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "ProjectManagementNotes/2. 49Processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "ProjectManagementNotes/2. 49Processes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "ProjectManagementNotes/2. 49Processes.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb5e2e421dbf52e0",
+  "active": "ac626c412e2c143b",
   "lastOpenFiles": [
+    "ProjectManagementNotes/1. ProjectLifecyclesandProcesses.md",
     "projectManagementNotes.md",
     "Welcome.md"
   ]
